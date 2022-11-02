@@ -6,7 +6,7 @@ Here is a solidity roadmap for beginners. If you want to contribute, please crea
 ## Roadmap
 
 
-![alt text](https://pbs.twimg.com/media/FfKmnyjUUAEyM1G?format=jpg&name=large)
+![alt text](https://raw.githubusercontent.com/Paramchoudhary/Master-Solidity-Roadmap/main/roadmap_solidity.png)
 
 ## Solidity Learning Resources
 
