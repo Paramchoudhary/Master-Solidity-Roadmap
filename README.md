@@ -39,3 +39,5 @@ Here is a solidity roadmap for beginners. If you want to contribute, please crea
 [• NFT School](https://nftschool.dev/)
 
 [• Ethereum Hacker](https://ethereumhacker.com/)
+
+[• Secureum Blogs](https://secureum.substack.com/)
