@@ -1,6 +1,11 @@
-# Master-Solidity-Roadmap
+# Solidity Developer Roadmap
+## Introduction
+ Welcome to the Solidity Developer Roadmap! Solidity is a high-level programming language used to write smart contracts on the Ethereum blockchain. It is a statically  typed, contract-oriented language that is influenced by C++, Python, and JavaScript.
 
-Here is a solidity roadmap for beginners. If you want to contribute, please create a pull request.
+This roadmap is intended to help developers who are new to Solidity to get up to speed with the basics and then dive into more advanced topics. It includes a list of resources and learning materials to help you become a proficient Solidity developer.
+
+## Prerequisites
+Before diving into Solidity, it is recommended that you have a basic understanding of programming concepts and at least one programming language. A good understanding of blockchain technology, specifically Ethereum, is also recommended.
 
 
 ## Roadmap
